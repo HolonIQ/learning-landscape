@@ -39,3 +39,186 @@ Using a common framework will support the discovery of, and access to innovation
 Advancements in artificial intelligence technology is driving an increasingly sophisticated approach to unlocking knowledge from enormous volumes of text-based data to uncover new patterns, connections and ideas. Powerful search capability and automated, intelligent systems can connect knowledge from multiple language formats.
 
 Knowledge is increasing found in video, audio and other new digital formats. Deep tech start-ups are mining this data, connecting it with other points such as geo- and bio- information to identify new knowledge.
+
+Knowledge Discovery
+Advancements in artificial intelligence technology is driving an increasingly sophisticated approach to unlocking knowledge from enormous volumes of text-based data to uncover new patterns, connections and ideas. Powerful search capability and automated, intelligent systems can connect knowledge from multiple language formats.
+Knowledge is increasing found in video, audio and other new digital formats. Deep tech start-ups are mining this data, connecting it with other points such as geo- and bio- information to identify new knowledge.
+
+## Open Research
+The open knowledge movement is in full swing with institutions, academics and governments questioning the proprietary academic publishing model that profits from publicly funded research, when costs of distribution are now close to zero.
+ 
+Under pressure from all sides including mass boycotts, academic publishing giants are increasingly providing free and open access to parts of their Open access journals, tools for finding, collating, tagging and organising research are in this category.
+ 
+## Curriculum
+New startups are collaborating with educators to design new types of curriculum in specialised areas such as language learning science or coding or offered in conjunction with proprietary content or curated from open educational resources.
+ 
+Adaptive learning platforms are increasingly adding resources and content to their offerings and morphing into ‘learning design’ solutions with full curriculum designed in conjunction with or on behalf of educational providers and content houses.
+
+## Educational Resources
+Solutions for sourcing, storing, tagging and using educational resources provide teachers with a ‘portfolio’ of resources for use in their curriculum. Resources are increasingly digital and able to be tailored by teachers, allowing for contextualised solutions.
+Peer to peer content sharing platforms for teachers have taken off with hundreds of thousands of teachers sharing (and selling) their tried and tested lesson plans, worksheet and activities. Aggregation platforms for open education resources provide a place for educators, or anyone, to construct their own courses.
+ 
+## Q&A
+The peer to peer knowledge exchange phenomenon is moving into learning and education, with platforms supporting educational Q&A structured by traditional content topics such as maths, science and history. Platforms offer membership options for advanced content, and peer voting and scoring of content and contributors manage quality.
+ 
+Peer to peer knowledge solutions in education will continue of challenge the notion of ‘trusted expert’ which has traditionally been held in institutional contexts. 
+ 
+## Education Management
+Education management tools and platforms provide a unified data solution across the student journey. Learner and learning data are visible to teachers, parents, students and administrators to assist in decision-making and tracking progress.
+ 
+Using AI technology, some solutions in this category provide personalized and predictive recommendations, while others solve the communication challenge across many stakeholders by automating workflow, alerts and providing dashboard-like data visualisation.
+ 
+## Learning Environments
+Digital learning environments in educational institutions are still dominated by traditional LMS/VLE platforms designed to administer content, activities and assessment related to learning. Incumbent systems are challenged by old architecture, however interoperability standards, cloud computing, a greater focus on user experience and integration of intuitive communication and social solutions will see keep competition in this market.
+Newer solutions focus on the whole learner experience and a ‘one stop shop’ for teachers, schools and whole education systems. Global technology giants are developing partnerships and learning environment solutions that leverage broader integrations with their product set.
+
+## Classroom Technology
+The lines are now blurred between physical and digital classrooms. At campuses around the world, technology in the classroom has come off the walls and into the hands of students, allowing the integration of digital resources, activities, games and assessment with the lesson that’s happening in the physical world. 
+ 
+Digital capture of physical learning enables students to revise and engage with their own class, or to interact with others in live, synchronous online class spaces.
+ 
+## Admissions Platforms
+Admissions platforms solve problems for students, parents and institutions by digitising search, matching, verification and admissions processes and by providing step-by-step workflow management. Solutions are now broadening out into consumer sales and marketing strategies and solving student retention issues through personalised communication approaches. Drawing on the ‘power of the crowd’ some solutions in this category are using a peer to peer advisory model using students and recent graduates to provide mentorship and admissions advice.
+
+## Finance
+Following trends in other industries, new tech-enabled solutions for financing education have gained traction over the past few years. Solutions offering ‘earn now, pay later’ models, micro-lending and re-financing options for learners provide easy to use, membership-based solutions that are challenging traditional lender. Financing options for private school fees that allow repayment after graduation ease the strain on parents.  Scholarship search and matching solutions enable students to discover and navigate complex scholarship processes and enable schools to fulfil their scholarship commitments.  New payment processing solutions help colleges process payments from international students and challenge traditional providers in this space.
+ 
+## Pre-K
+The Pre-K cluster incorporates organised learning, typically offered in pre-school environments ranging from traditional, to exploratory learning and immersive settings.
+ 
+Tech innovations in before school learning apps and games, tech-enabled toys and robotics are undergoing a surge of interest and innovation as research on the brain of 0-6 year old’s reveals an exponential return on educational investment in those early years.
+ 
+## School
+Typically organised along national curriculums and embedded into the social fabric of communities, schools offer standardised curriculum for children aged between five and eighteen years.  While there are vast differences in participation and learning approaches in schools worldwide, there is a global trend towards private schools across both developed and developing countries.
+ 
+As nations, economies and communities become increasingly engaged in a global world, there is a growing network of global schools, which maintain diversity and internationalization at their core.
+ 
+## Vocational
+Vocational training is usually incorporated into national education systems and deals with technical training required of physical professions, with historical roots in craftmanship. Traditionally, those who undertook vocational training went through an apprenticeship learning model.
+ 
+Vocational training institutions have not seized the opportunity to ‘own’ the new technical professional space of computing and coding but have been languishing in the shadow of their more elite university peers over the past twenty years. However, there is emerging worldwide recognition of the importance of technical and vocational training to deliver future human capital as the ‘engine room’ of healthy economies.
+ 
+## Alternate
+Alternate education providers, ranging from K-12 through to ongoing professional training have always been considered ‘outliers’ and ‘edge cases’ to the formal education system, with a negligible percentage of learners engaging in alternative forms of education.
+ 
+However, in search of better outcomes and frustrated with national systems, alternative providers are gaining traction and we now see alternative university models for example, which are focussing on specific skills and outcomes such as critical thinking, ethical decision making and leadership.
+ 
+## University
+Once the sanctuary of the elites, over the past thirty years, universities have morphed into servicing the mass market. In the context of diminished public resources and market demands, universities have incorporated technology into most parts of their educational delivery. Many traditional universities offer fully online courses and represent a significant customer segment for edtech firms and technology companies alike.
+ 
+There are many university ‘segments’ from Ivy League, to open and distance learning to those who’s remit is in particular disciplines such as engineering or technology. Some ‘mega’ universities are emerging off the back of massive global online enrolments and others are joining forces to create alliances, share resources and students.
+ 
+## MOOC
+Massive Open Online Courses have evolved significantly since the early days of free, open B2C beginnings. In addition to the giants, which provide learning solutions to millions of people worldwide, many universities and entire countries have now launched their own MOOC’s or partnered with large MOOC providers to offer their students/workforce with flexible options for ongoing learning.
+ 
+MOOC providers have more recently modified their business models to include paid components for testing and credentials, formed alliances with universities around delivery and recognition of learning and have become a ‘training’ provider to corporates for upskilling their workforces.
+ 
+## Prop Online
+An industry worth over $200b annually, online learning is now an accepted form of education and ongoing learning. Online education providers with proprietary content and activities range from those offering short courses for professionals seeking to update their skills, to online courses for children to supplement formal school education. Learning experiences range from individual, self-paced learning through to live synchronous classes with academic or industry teachers. Many proprietary online providers operate B2C, though we are seeing more B2B models where online providers are partnering with institutions, corporates or schools. 
+ 
+## OPM
+OPM’s (Online Program Management) effectively act as the outsource provider of online learning for schools and universities who do not have the capability or infrastructure to go it alone, or who see an OPM arrangement as a better strategic option.  OPM’s design, run and market online education programs on behalf of institutions and the commercial arrangement is typically profit share, or percentage of tuition.
+ 
+To remain competitive, keep their current students engaged and as a source of additional revenue, schools are increasingly using OPM’s as a quick way to enter the online market.
+ 
+## Bootcamp 2.0
+Originally designed to fill the skills gaps for coding and other new digital skills, bootcamps are short, full-time programs, typically 9 to12 weeks in length aimed to get learners ‘job ready’ in new professions.  Over the past five years bootcamps have evolved into partnership and B2B operations which sees traditional providers such as universities and schools partnering with bootcamps to provide a much needed skills ‘shot in the arm’ in topics that traditional providers cannot cover.
+ 
+Bootcamps are strengthening their focus on employability and moving into the corporate arena by partnering with large companies and industry bodies to provide upskilling for workforces.
+ 
+## Apps
+More people in the world now access the internet via smartphone than any other device and the ‘app’ is the primary mechanism for access to information and services. There are over half a million education apps, which are in the top three most popular apps categories. Not surprisingly, we see a vast number of education apps for children in key learning areas such as maths and language learning. The reach and user acceptance of app technology also means that more traditional education providers, both online and offline, are increasingly using app technology to communicate and engage learners.
+ 
+## XR
+XR, or Extended Reality refers to virtual reality (VR), augmented reality (AR), and mixed reality (MR). XR has the potential to solve key learning challenges such as engagement, but also offers the opportunity for lower cost training in high stakes situations such as safety, medical, defense and aerospace.
+ 
+XR startups focusing on education range from mobile solutions that allow multi-use in schools, the redefinition of experiential learning, to alternative models for vocational training in physical trades such as plumbing and engineering. As the costs of immersive technologies reduce and technologies become more user-friendly, schools are more able and willing to invest in alternative, virtual experiences for their students.
+ 
+## Robotics
+A modern renaissance of engineering, electronics and programming is being manifested in the revival of robotics. Combining creativity in software and hardware, robotics startups are helping kids to find their inner inventor through ‘make your own’ kits, combined with online communities of enthusiasts and teachers, global competitions and the use of everyday household materials. Already a significant B2C market, robotics startups are also working with schools and school systems to allow integration of hands-on robotics learning into the curriculum. 
+
+## Voice, Chat, Wearables
+The development of artificial intelligence, voice recognition, GPS and micro-processing technology now supports innovations in both the administration of education as well as learning processes. Chat bots are widely used to assist student choice for providers and courses, while voice enabled hardware is being installed in college dorm rooms to provide personalized information.
+
+## Games and Simulations
+Games have long been a core instructional strategy in the Pre-K space and games-based learning apps still dominate this space. Elements of gamification have also been making their way into higher educational levels and corporate training over the past few years and more recently, serious game design elements are being used in professional online training. Virtual and mixed reality simulations, once limited to high cost operations such as flight simulators, are now becoming mainstream and we see many applications in medical, engineering and other physical procedures but also increasingly common in ‘regular’ curriculum as the benefits of authentic activities are more appreciated. 
+
+## STEM & Coding
+STEM and coding have become one of the largest domains of innovation activity over the past few years across all sectors and age groups. Offline solutions focus on boot camp-style offerings for kids and adults alike, especially for upskilling in the area of coding. Equally abundant and online and app solutions for learning to code, which often include an online community, peer instruction and competitions or global ‘jams’. A new wave of STEM products such as robotics and science kits are integrating software and hardware, and the maker-movement.
+
+## Language Learning
+While the use of technology to learn a language is not new, over the past few years we have seen significant investment and innovation in technology-led language learning models. Live synchronous small group learning that makes use of advanced video and audio technologies connecting language learners with teachers anywhere in the world has powered the Chinese afterschool tutoring market and app driven language learning for kids and adults has made language learning, particularly English, one of the top app categories on all platforms. 
+
+## Language Testing
+Morphing from pencil and paper to technology-based language testing and marking has been happening for many years especially in the reading and writing components, however efficiently scaling speaking and listening components have traditionally proved challenging. Recent developments in synchronous video/audio technology along with bio-credentialing and live monitoring have opened up new possibilities for secure and verified testing solutions at scale. Application of artificial intelligence allows for a unique assessment path for each test-taker, and moving beyond language basics to assessment of skills and capabilities for courses or scholarships.
+
+## Discovery
+Parents and students are turning to technology to help them find the best match for their study goals and preferences. Matching and ‘concierge’ platforms that use artificial intelligence to connect learners with institutions and help them through to admissions are becoming more common as the competition for top talent starts earlier than ever.  Other approaches see platforms built out of networks of college advisors to guide and answer questions from initial contact through to course choices and admissions. 
+
+
+## International Schools
+With over 8,000 international schools worldwide, serving almost 5 million students and half a million teachers, international schools are big business globally. Over three quarters of enrolments in international schools come from the host country, an indicator of the demand (and ability to pay) from parents who want to give their children an internationally focused education and provide a better chance at entry into a top global university.
+
+China has the most number of international schools with almost 600 in the country and will need at least to double that in the coming years to service the likely demand from high net worth families and the growing middle-class population.  
+
+## International Study
+International education is one of the most commercialized aspects of the industry, with millions of students travelling abroad each year to study overseas, undertake summer school or exchange programs, or as a pathway into higher education via English language and foundations studies. While the traditional face to face ‘agent’ model still dominates, high tech solutions are prevalent across every part of the value chain from searching and matching platforms, online admissions consultants, peer to peer coaching, scholarship finder, study skills and internship services.
+
+## Teacher Resources
+Discoverable digital resources for teachers, facilitators and even those aimed at parents provide an easy to find, curate and contextualized content for teaching – saving hundreds of hours creating or searching for content and lessons. Not just covering the core curriculum, digital content, activities and instructional guidance also helps teachers with age appropriate resources for skills such as critical thinking using authentic scenarios. Ready-made interactive online resources and printable worksheets integrate on- and off-line learning.  In addition to proprietary providers, peer to peer teacher sharing platforms engage tens of thousands of teachers, rewarding popular and well-designed resources with micro-payments and community kudos.
+
+## Study Notes/Homework
+As learning productivity tools, apps are more popular with digitally savvy generations. Easy to use, organize, tag and find, study note tools are increasingly integrated with operating systems (think Chrome extension). Study and homework organizers range from tools for collating, and finding, going paperless by scanning and storing study papers, annotating and notetaking on PDFs, and putting together citations and bibliographies. Other apps in this category assist students organize their classes, assignments and exams while synchronizing across devices.
+
+## After School
+Arguably the fastest growing segment in the Asian EdTech space, online and offline after school tutoring and coaching supports millions of students every day of the week in thousands of online and offline classrooms and clinics. Whether learning English to better prepare for high school exams, remaining competitive in mathematics or undertaking broader critical thinking skills training to prepare for SAT-style exams, after school tutoring and coaching in core areas remains vastly popular, particularly in competitive, exam focused cultures. Technology enables high quality digital alternatives to physical classes and have been a catalyst for huge scale and broader access.
+
+## Tutoring
+Tutoring platforms match tutors with student needs and provide interactive online class spaces for synchronous instruction.  Video / audio technology advancement has meant that ‘anywhere’ tutoring has unlocked tutor supply, which doesn’t need to be in the same physical location. In addition to set tutorial sessions, some providers offer ‘anytime help’ hours by drawing on a pool of qualified tutors available from different time zones.  Other tutoring models ditch the 1:1 teaching altogether allowing students to photograph their problem/question, is matched with a tutor who walks them through the steps to solve the problem via messaging. Other models are more ‘on demand’ tutoring services, connecting students with a tutor within minutes of requesting help. Education integrations with other ‘home services’ are increasingly common, and learners can now add tutoring to their Amazon cart. 
+
+## Test Prep
+High stakes exams such as language tests, university admissions and entry into professions still feature heavily in the education landscape. As such, test preparation remains a thriving part of the sector, with more online and personalized options available. In addition to traditional online solutions such as video tutorials, AI technology supports adaptive and personalized preparation of many providers and peer platforms connect and match learners with those who’ve succeeded and provide feedback on practice exams.
+
+## Assessment
+As the cornerstone of learning, assessment design, delivery, grading and feedback has been digitized significantly over the past fifteen years. Now far beyond multiple choice question banks, technology solutions are enabling everything from online proctoring, handwriting and audio to text, analysis of video assessment, robust peer-grading systems and assessment design tools. AI applications in text analysis supports machine-grading of complex written work and identification of engagement and participation in online classrooms. 
+
+## Portfolio
+As careers are increasingly made up of many jobs or gigs, which are digital in nature, systems for capturing and recording work output are extending beyond the creative professions. Portfolio systems, provide an individual online space to evidence work, knowledge and skills, which is ‘owned’ by the learner/professional rather than by the institution. Portfolio systems become the ‘digital persona’ of an individual, rendering the traditional CV obsolete and with the learner in control of who gets access to what information. 
+
+## Credentialing
+Traditional credentials provided by universities and other educational institutions are not able to service the need for more granular verification of specific technical, content and professional knowledge and skills. A number of proprietary and open badging and credentialing services are now available, which manage the design, issue and management of digital badges, allowing learners to evidence their learning, and keep digital credentials from different providers attached to their online social and professional profiles. Blockchain technology is now powering a number of these providers, thus enabling tamper-proof, shareable and immutable records.
+
+## Career Planning
+
+## Skills Verification
+ 
+## Workforce Planning
+
+## Talent Acquisition
+
+## Career Development
+
+## Performance Management
+
+## Wellness
+
+## Upskilling
+
+## Internships
+
+## Apprenticeships
+
+## Gigs
+
+## Mentoring
+
+## Global Giants
+
+## Investors
+
+## Accelerators
+
+## Events
+
+## Awards
+
