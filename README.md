@@ -193,32 +193,42 @@ Traditional credentials provided by universities and other educational instituti
 ## Skills Verification
  
 ## Workforce Planning
+Organizations in this cluster are focused on workforce data and analytics. From labor market analytics that help governments, universities and employers make decisions and understand local labor markets to platforms that assist in supporting whole workforces successfully transition into the fourth industrial revolution. Other solutions mine information about an organization’s existing workforce to identify current and future capability gaps and surface labor market information through analysis of millions of job postings and resumes.
 
 ## Talent Acquisition
+New models that take full advantage of big data are disrupting traditional talent acquisition processes with the promise of finding better matches, lowering search and turnover costs and eliminating bias from the hiring process. Others in this cluster are focusing on matching qualified talent by recirculating candidates who are not hired at one firm into their network of organizations. Gone are the days of clunky, stand-alone HR systems, with new players prioritizing a full suite of features through to on-demand video screening, mobile first interfaces and seamless integration with other HR systems.
 
-## Career Development
+## Capability Development
+Solutions in this category are focused squarely on supporting organizations to keep their workforce engaged and updated with the capabilities required across the company, whenever and where ever needed. Solutions range from platforms that curate classes, conferences, coaches or content that is tailored to the identified needs of the organisation to mobile microlearning for onboarding and upskilling and others that seek to deliver a ‘whole of organization’ learning culture and community.
 
 ## Performance Management
 
 ## Wellness
+Taking a holistic approach to staff management, solutions in this space range from re-inventing traditionally paper-driven processes such as managing health benefits, to apps that support employee engagement, motivation and development through online community-building, creative challenges and health-habit improvement tools. Integrated solutions for companies also incorporate well-being assessments, wellness coaching and biometrics screening. Other tools provide mechanisms for dealing with workplace conflict, giving tough feedback, preparing staff for performance review processes and other stressful work situations.
 
 ## Upskilling
+As workers in the twenty first century will likely have many jobs and multiple careers through their adult lives, they will need to constantly update knowledge and skills to remain relevant and able to fulfil ever changing job requirements. Organizations in this cluster fulfil this need with on demand training in everything from digital skills, safety and compliance to hobbies and creative pursuits. Operating B2C, B2B2C and B2B models, companies are beginning to use these providers to manage their whole workforce onboarding and training needs, attracted by the, low cost, ability to add your own content or use extensive provider libraries and easy monitoring and tracking functionality. Other peer-based platforms highlight the community and social aspects of learning, encouraging members to actively contribute and become a trainer.
 
 ## Internships
 
 ## Apprenticeships
 
 ## Gigs
+It is estimated that more than half of the world’s workforce will be contingent workers by 2030 and these platforms provide discovery, matching and quality control to support connection and transaction between ‘gig’ workers and those who need a project or task completed. Like many peer platforms, typically all parties have a profile and transparent mutual ratings systems and payment ranges from flat fees, ‘bidding’ for jobs or per hour arrangements. Systems such as these are likely to become a more accepted and popular way of fulfilling specific projects or tasks as skills shortages in some geographies are balanced by a large number of trained and ready workers in other parts of the world, in particular in emerging economies.
 
 ## Mentoring
 
 ## Global Giants
+Global technology companies provide infrastructure, applications and services to support institutions, in both administration and increasingly learning contexts. Technology providers are increasingly focusing on the K-12 market by providing a ‘one stop shop’, including hardware, software, infrastructure, hosting and support. Traditionally servicing consumer and business, tech companies are seeking to become the ecosystem platform for the education sector. Global publishing houses still provide a significant proportion of formal learning resources especially in the higher education and high school environments. With traditional publishing business models under threat, publishing houses are investing in EdTech products and moving to digitize their traditional products and product delivery.
 
 ## Investors
+Firms, individuals and government organizations support education innovation by providing capital funding through direct investment, grants and equity financing. Venture capital investors in education range from individual ‘angels’ to social impact funds, broad based investors to those who focus specifically on EdTech investment. In addition to traditional investment houses, corporate venture funds within education organizations, publishers and later stage EdTech startups also undertake EdTech investment and acquisition activity. 
 
 ## Accelerators
+Accelerator and incubator programs provide much needed support and structure for early stage EdTech entrepreneurs, from those with an idea through to assisting startups to develop their business model, pitch and product, through to help finding investors. Typically between 3-6 months in length, accelerator programs provide working space, structured support via programs and mentoring, and cash funding, often in exchange for a small percentage of equity. There are a handful of dedicated EdTech accelerators globally and many education startups participate in broader programs allowing for collaboration across sectors.
 
 ## Events
+EdTech and education innovation events range from mega-conferences and expos to small meetups and practice sharing sessions. Events provide a focus for learning about specific topics, sharing practices and making connections to people working in the broader education ecosystem. Expo events provide opportunities for products and services to connect with potential customers. Large EdTech conferences attract a global audience and allow connections between thought leaders, entrepreneurs, teachers, government, investors and service providers. 
 
 ## Awards
-
+Competitions and awards are numerous in early stage EdTech ecosystems, enabling entrepreneurs an opportunity to gain exposure their products and services and as practice ‘pitching’ their ideas and business model. Making it through to the finals of competitions or awards provides an easy ‘finding and filtering’ mechanism for early stage investors. National (and international) awards are fewer in number but range from effective use of technology in teaching and teaching innovation awards, through to tech-product awards in the education sector.
