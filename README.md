@@ -152,7 +152,7 @@ In addition to the giants, which provide learning solutions to hundreds of milli
 MOOC providers have modified their business models to include paid components for testing and credentials, formed alliances with universities around delivery and recognition of learning and have become a ‘training’ provider to corporates for upskilling their workforces. MOOC providers have also commenced delivering full degree programs with partnering institutions, thereby edging into the OPM market.
  
 ## Prop Online
-An industry worth over $200b annually, online learning is now an accepted form of education and ongoing learning. Online education providers with proprietary content and activities range from those offering short courses for professionals seeking to update their skills, to online courses for children to supplement formal school education. Learning experiences range from individual, self-paced learning through to live synchronous classes with academic or industry teachers. Many proprietary online providers operate B2C, though we are seeing more B2B models where online providers are partnering with institutions, corporates or schools.
+An industry worth over $200b annually, online learning is now an accepted form of education and ongoing learning. Online education providers with proprietary content and activities range from those offering short courses for professionals seeking to update their skills, to online courses for children to supplement formal school education.
 
 Learning experiences range from individual, self-paced learning through to live synchronous classes with academic or industry teachers.
 
